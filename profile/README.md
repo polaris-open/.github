@@ -54,5 +54,5 @@ Some repositories may contain incomplete ideas, early architecture, experiments,
 ## How to participate
 
 1. Read each repository README.
-2. Read [`CONTRIBUTING.md`](../CONTRIBUTING.md), [`CODE_OF_CONDUCT.md`](../CODE_OF_CONDUCT.md), [`SECURITY.md`](../SECURITY.md), and [`GOVERNANCE.md`](../GOVERNANCE.md).
+2. Read [`CONTRIBUTING.md`](https://github.com/polaris-open/.github/blob/main/CONTRIBUTING.md), [`CODE_OF_CONDUCT.md`](https://github.com/polaris-open/.github/blob/main/CODE_OF_CONDUCT.md), [`SECURITY.md`](https://github.com/polaris-open/.github/blob/main/SECURITY.md), and [`GOVERNANCE.md`](https://github.com/polaris-open/.github/blob/main/GOVERNANCE.md).
 3. Best early contributions: clarity, feedback, examples, documentation, and small improvements.
