@@ -23,11 +23,11 @@ We are starting small, in public, with focus on:
 
 ## Current initiatives
 
-**Polaris Academy** — Open, self-paced learning paths for software engineering, applied AI engineering, and technical growth.
+**[Polaris Academy](https://github.com/polaris-open/polaris-academy)** — Open, self-paced learning paths for software engineering, applied AI engineering, and technical growth.
 
-**Runa** — Local-first, Markdown-first agent for knowledge bases and project workflows.
+**[Runa](https://github.com/polaris-open/runa)** — Local-first, Markdown-first agent for knowledge bases and project workflows.
 
-**Agentic Squad** — A framework for structuring agentic software engineering workflows across teams, repositories, and SDLC stages.
+**[Agentic Squad](https://github.com/polaris-open/agentic-squad)** — A framework for structuring agentic software engineering workflows across teams, repositories, and SDLC stages.
 
 ---
 
